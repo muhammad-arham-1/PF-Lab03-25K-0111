@@ -1,1 +1,1 @@
-# PF-Lab03-25K-0111
+My name is Muhammad Arham and I am a BSAI student at FAST NUCES. I am passionate about exploring the world of Artificial Intelligence. My programming interests are machine learning, problem solving and algorithm.
